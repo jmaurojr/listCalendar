@@ -1,0 +1,3 @@
+dycalendar.draw({
+  target: "#dycalendar",
+});
